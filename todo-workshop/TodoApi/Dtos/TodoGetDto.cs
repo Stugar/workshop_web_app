@@ -1,4 +1,4 @@
-namespace TododApi.Dtos;
+namespace TodoApi.Dtos;
 
 public record TodoGetDto(
     int Id,
